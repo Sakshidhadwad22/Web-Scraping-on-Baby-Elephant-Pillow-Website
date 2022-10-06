@@ -11,8 +11,8 @@ steps to scrap data from website step by step=
 	1) Extract impage of product
 	2) Extract title of the product
 	3) Extract price of the product
-	4) Extract  name of customer
-	5) Extract comments of customer
+	4) Extract  name of customers
+	5) Extract comments of customers
 	6) Extract rating of customers
 	7) Extract review of customers
 	8) Convert all the extracted data into tabuler form
