@@ -1,4 +1,5 @@
-# web-scraping
+# Web Scraping on Baby Elephant Pillow Website
+
 introduction= using web scraping scrap data form flipkart website of baby-elephent pillow and import image
 
 imports=1) import Image
